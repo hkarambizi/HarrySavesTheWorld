@@ -1,0 +1,28 @@
+
+           <!--  FIFO APP START -->
+            <div class="card-container col-md-8" id="featured">
+              <div class='col-md-12 card bordered'>
+                <div class="col-md-12 text-center">
+                    <h2>fifo App</h2>
+                </div>
+                <div class="col-md-12">
+                    <a href="https://ancient-eyrie-53790.herokuapp.com/" target="_blank">
+                    <img src="assets/img/fifo-brief.png" class="img-responsive img-centered" alt="fifo_app">
+                    </a>
+                </div>
+                <div class="col-md-12">
+
+                    <div class="row bottom">
+                        <div class="col-md-12">
+                        <br><h4>I created fifo with Ruby on Rails as an enterprise app for an Atlanta festival concessions company to manage and track inventory flow, eliminating overstocking and cutting over $1,000 per event day on printing and added labor costs. Although this app was my creation, I worked in a group of three using Agile programming methodologies to develop this. </h4><br>
+                                <div class="col-xs-2 col-xs-offset-5">
+                                        <img src="assets/img/logo-icon.png" alt="harry_superhero">
+                            </div><!--/logo-->
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+      </div> <!-- end of row-->
+<!-- FIFO END -->
